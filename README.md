@@ -11,7 +11,7 @@ Feel free to explore the repositories and projects to get a glimpse of my data-d
 Happy coding! 🚀
 
 #### About me
-- 👩🏻‍🎓 Recently, I graduated with an MS degree in Business Analytics, gaining valuable skills and knowledge to tackle data-driven challenges.
+- 👩🏻‍🎓 Recently, I graduated with an MS degree in Business Analytics, gaining skills and knowledge to tackle data-driven challenges.
 - 🔭 Currently, I'm actively seeking a full-time position to apply my expertise and drive impactful change.
 - 🌱 I'm currently learning about Recommender Systems
 - 📫 How to reach me: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xyzsherry/)
