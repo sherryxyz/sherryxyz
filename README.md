@@ -16,7 +16,7 @@ Happy coding! 🚀
 - 🌱 I'm currently learning about Recommender Systems
 - 📫 How to reach me: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xyzsherry/)
 - 😄 Pronouns: she/her
-- 👩🏻‍💻 Tools/Languages/Database:
+- 👩🏻‍💻 Tools/Languages/Databases:
   
      ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
      ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
