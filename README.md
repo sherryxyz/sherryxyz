@@ -2,7 +2,7 @@
 
 Welcome to my page!😊 
 
-I am a passionate learner with a keen interest in leveraging data to solve problems, improve processes, study consumer psychology & behaviors, and uncover valuable insights.
+I am a passionate learner with a keen interest in leveraging data to solve problems and uncover valuable insights.
 
 This GitHub page showcases some of the data science projects I have worked on in the past, as well as my ongoing endeavors, where I'll be continually adding what I am currently working on.
 
