@@ -12,10 +12,9 @@ Happy coding! 🚀
 
 #### About me
 - 👩🏻‍🎓 Recently, I graduated with an MS degree in Business Analytics, gaining skills and knowledge to tackle data-driven challenges.
-- 🔭 Currently, I'm actively seeking a full-time position to apply my expertise and drive impactful change.
-- 🌱 I'm currently learning about Recommender Systems
+- 🌱 I'm currently working on improving my data engineering skills
 - 📫 How to reach me: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xyzsherry/)
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/hers
 - 👩🏻‍💻 Tools/Languages/Databases:
   
      ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
