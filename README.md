@@ -38,7 +38,7 @@ Happy coding! 🚀
   
   > Top 5 CliftonStrengths: Strategic, Learner, Futuristic, Intellection, Individualization
   
-  > MBTI: INFJ
+  > MBTI: INFJ-T
 
 
 ---
